@@ -1,0 +1,28 @@
+{
+  "name": "next-amp-serviceworker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benatkin/next-amp-serviceworker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benatkin/next-amp-serviceworker/issues"
+  },
+  "homepage": "https://github.com/benatkin/next-amp-serviceworker#readme",
+  "dependencies": {
+    "next": "^4.0.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
